@@ -1,4 +1,4 @@
-# Frontend Mentor - Ping coming soon page solution
+# Frontend Mentor - Base Apparel coming soon page solution
 
 이 솔루션은 [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0) 챌린지 참여 결과물입니다.
 
